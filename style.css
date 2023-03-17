@@ -6,7 +6,8 @@ color: orange;
 p { font-family: Blackadder ITC;
   color: blue;
 }
-
+ol {font-family: Arial;
+color: blue; }
 .green{
 color: green;
 }
