@@ -3,7 +3,9 @@ color: orange;
   font-family: Blackadder ITC;
   
 }
-p { font-family: Blackadder ITC;}
+p { font-family: Blackadder ITC;
+  color: blue;
+}
 
 .green{
 color: green;
